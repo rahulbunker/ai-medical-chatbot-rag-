@@ -1,5 +1,10 @@
 # 🩺 Rahul HealthBot
 
+<p align="center">
+  <img src="assets/screenshot1.png" width="45%"/>
+  <img src="assets/screenshot2.png" width="45%"/>
+</p>
+
 > AI-Powered Medical Assistant — Verified Documents ke basis par accurate medical answers deta hai.
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
