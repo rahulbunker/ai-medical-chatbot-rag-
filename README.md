@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="assets/screenshot1.png" width="45%"/>
-  <img src="assets/screenshot2.png" width="45%"/>
+  <img src="assets/Screenshot 2026-05-02 152420.png" width="45%"/>
 </p>
 
 > AI-Powered Medical Assistant — Verified Documents ke basis par accurate medical answers deta hai.
