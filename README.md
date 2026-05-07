@@ -3,8 +3,9 @@
 🚀 **Live Demo:** https://rahulbunker01-rahul-healthbot.hf.space
 
 <p align="center">
-  <img src="assets/screenshot1.png" width="45%"/>
-  <img src="assets/Screenshot 2026-05-02 152420.png" width="45%"/>
+  <img src="assets/result1.jpeg" width="250"/>
+  <img src="assets/result2.jpeg" width="250"/>
+  <img src="assets/result3.jpeg" width="250"/>
 </p>
 
 > AI-Powered Medical Assistant — Verified Documents ke basis par accurate medical answers deta hai.
